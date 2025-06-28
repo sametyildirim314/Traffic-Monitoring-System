@@ -1,4 +1,4 @@
-# PROJE-7: Canlı Trafik İzleme Sistemi
+# Canlı Trafik İzleme Sistemi
 
 ## 📌 Proje Özeti
 
