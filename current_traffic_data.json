@@ -1,0 +1,94 @@
+{
+  "timestamp": "2025-05-29T20:52:03.510356",
+  "source": "AWS_IoT_Core",
+  "intersections": [
+    {
+      "id": 1,
+      "name": "Kızılay Meydanı",
+      "lat": 39.9208,
+      "lng": 32.8541,
+      "density": 18.5,
+      "avgSpeed": 29,
+      "waitTime": 168,
+      "vehicleCount": 56,
+      "status": "normal"
+    },
+    {
+      "id": 2,
+      "name": "Tandoğan Kavşağı",
+      "lat": 39.9347,
+      "lng": 32.8197,
+      "density": 11.5,
+      "avgSpeed": 54,
+      "waitTime": 20,
+      "vehicleCount": 50,
+      "status": "normal"
+    },
+    {
+      "id": 3,
+      "name": "Kuğulu Park Kavşağı",
+      "lat": 39.9019,
+      "lng": 32.8597,
+      "density": 11.2,
+      "avgSpeed": 38,
+      "waitTime": 41,
+      "vehicleCount": 47,
+      "status": "normal"
+    },
+    {
+      "id": 4,
+      "name": "Tunalı Hilmi Caddesi",
+      "lat": 39.9089,
+      "lng": 32.8486,
+      "density": 29.5,
+      "avgSpeed": 31,
+      "waitTime": 46,
+      "vehicleCount": 78,
+      "status": "normal"
+    },
+    {
+      "id": 5,
+      "name": "Çankaya Caddesi",
+      "lat": 39.9153,
+      "lng": 32.8625,
+      "density": 23.8,
+      "avgSpeed": 39,
+      "waitTime": 150,
+      "vehicleCount": 83,
+      "status": "normal"
+    },
+    {
+      "id": 6,
+      "name": "Atatürk Bulvarı - Sıhhiye",
+      "lat": 39.9294,
+      "lng": 32.8597,
+      "density": 24.4,
+      "avgSpeed": 42,
+      "waitTime": 109,
+      "vehicleCount": 83,
+      "status": "normal"
+    },
+    {
+      "id": 7,
+      "name": "GMK Bulvarı - Maltepe",
+      "lat": 39.9256,
+      "lng": 32.8378,
+      "density": 26.7,
+      "avgSpeed": 24,
+      "waitTime": 55,
+      "vehicleCount": 82,
+      "status": "normal"
+    },
+    {
+      "id": 8,
+      "name": "Bahçelievler Kavşağı",
+      "lat": 39.9133,
+      "lng": 32.8264,
+      "density": 19.2,
+      "avgSpeed": 36,
+      "waitTime": 101,
+      "vehicleCount": 77,
+      "status": "normal"
+    }
+  ]
+}
